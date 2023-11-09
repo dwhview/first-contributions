@@ -63,6 +63,7 @@ Brent L
 - [Amirmuerte](https://github.com/LionelZoc)
 - [Jovan Nikolic](https://github.com/jovannikolic7)
 - [Kevin Ty](github.com/Kevin-Tyy)
+- [dwhview](https://github.com/dwhview)
 - [Demetris Kouppas](https://github.com/Kouppas)
 - [Nikola Gedovic](https://github.com/NikolaGedovic)
 - [Vishesh Walia] (https://github.com/visheshwalia)
